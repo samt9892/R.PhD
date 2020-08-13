@@ -1,2 +1,2 @@
-# R.PhD
-R scripts for PhD
+# R.PhD.chapter1
+R scripts for PhD, chapter 1
